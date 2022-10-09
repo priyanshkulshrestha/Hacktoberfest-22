@@ -1,0 +1,14 @@
+Enter data for the root node :Enter data for left node of 1 :Enter data for left node of 2 :Enter data for left node of 4 :Enter data for right node of 4 :Enter data for right node of 2 :Enter data for left node of 5 :Enter data for right node of 5 :Enter data for right node of 1 :Enter data for left node of 3 :Enter data for left node of 6 :Enter data for right node of 6 :Enter data for right node of 3 :Enter data for left node of 7 :Enter data for right node of 7 :
+LEVEL ORDER TRAVERSAL : 
+1 
+2 3 
+4 5 6 7 
+
+REVERSE LEVEL ORDER TRAVERSAL : 
+4 5 6 7 2 3 1 
+INORDER TRAVERSAL : 
+4 2 5 1 6 3 7 
+PREORDER TRAVERSAL : 
+1 2 4 5 3 6 7 
+POSTORDER TRAVERSAL : 
+4 5 2 6 7 3 1 
