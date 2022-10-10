@@ -22,7 +22,7 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 - Chance to get a tree planted and make Earth greener
 
 
-# Contribution Rules📚:
+## Contribution Rules📚:
 
 - You are allowed to make pull requests that break the rules. We just merge it :)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
