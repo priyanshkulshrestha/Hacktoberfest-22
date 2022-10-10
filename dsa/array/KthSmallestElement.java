@@ -22,9 +22,9 @@ class GFG {
 		    
 		    int k=sc.nextInt();
 		    Solution ob = new Solution();
-		    out.println(ob.kthSmallest(arr, 0, n-1, k));
+		    System.out.println(ob.kthSmallest(arr, 0, n-1, k));
 		}
-		out.flush();
+		System.out.flush();
 	}
 }
 
