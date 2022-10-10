@@ -1,2 +1,2 @@
 # Hacktoberfest-2022
-## web projects
+## Web projects
