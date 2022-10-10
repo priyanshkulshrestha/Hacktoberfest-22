@@ -1,4 +1,4 @@
-![Hacktoberfest-2022](https://socialify.git.ci/priyanshkulshrestha/Hacktoberfest-2022/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiuKnoEetLsyl7uG0TAGRRGn5VwyXJjOfB8KlCCTLHf2i71PBEt5gzTjaXygLq5DQuWSaeKZYsCkttwiscchFNhqn24yk5iAFRGCaU6Bvg8hJ8R85oBSsqbrhmTPZccrjv89p1dDkh7mwwTHe_KPeiwcJd0PNV6KYasuGrn8lLE3ohhz7wC7XAk9YPbdA%2Fs1600%2FHfest-Logo-2-Color-Manga%402x.png&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+![Hacktoberfest-2022](https://socialify.git.ci/priyanshkulshrestha/Hacktoberfest-2022/image?description=1&logo=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEiuKnoEetLsyl7uG0TAGRRGn5VwyXJjOfB8KlCCTLHf2i71PBEt5gzTjaXygLq5DQuWSaeKZYsCkttwiscchFNhqn24yk5iAFRGCaU6Bvg8hJ8R85oBSsqbrhmTPZccrjv89p1dDkh7mwwTHe_KPeiwcJd0PNV6KYasuGrn8lLE3ohhz7wC7XAk9YPbdA%2Fs1600%2FHfest-Logo-2-Color-Manga%402x.png&owner=1&pattern=Plus&theme=Dark)
 # Hacktoberfest-2022
 Generate PRs for hacktoberfest 2022 and Win exciting Swags...🤩🥳
 
