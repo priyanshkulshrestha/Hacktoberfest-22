@@ -20,11 +20,11 @@ Submit your PR on this new repo Hacktoberfest , There we are merging all PR.
 - Clone on your local machine.
 
 ```terminal
-git clone https://github.com/fineanmol/Hacktoberfest2022.git
+git clone https://github.com/priyanshkulshrestha/Hacktoberfest-2022.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2022
+cd Hacktoberfest-2022
 ```
 
 - Create a new Branch
